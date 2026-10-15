@@ -27,5 +27,9 @@ This project focuses on analyzing Netflix movies and TV shows using Python. The 
 4. Make sure the CSV dataset is in the correct folder.
 5. Run the notebook cells in order.
 
-## 👩‍💻 Project Type
-Python Data Analysis Project
+
+## 📊 Project Visualizations
+
+### Netflix Data Analysis Graph
+
+![Netflix Graph](netflix_graph.png)
