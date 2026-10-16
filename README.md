@@ -32,3 +32,7 @@ This project focuses on analyzing Netflix movies and TV shows using Python. The 
 
 ![Netflix Graph](netflix_graphs.png.png)
 ![Netflix Graph](Netflix_graphs.png(3).png)
+## 📄 Project Report & Presentation
+
+- [Download Project Report (PDF)](Netflix_Data_Analysis_Project_Presentation.pdf)
+- [View Project Presentation (PPT)](Netflix_Data_Analysis_Project_Presentation.pptx)
